@@ -2,26 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="96add330-3737-4c8a-a07a-cd91e5fecc6a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/abstracts/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/abstracts/_variables.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/base/_animations.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/base/_animations.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/base/_typography.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/base/_typography.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/components/_bg-video.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/components/_button.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/components/_card.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/components/_composition.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/components/_feature-box.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/components/_form.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/components/_popup.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/components/_story.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/layout/_footer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/layout/_footer.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/layout/_grid.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/layout/_grid.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/layout/_header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/layout/_header.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/layout/_navigation.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/layout/_navigation.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/main.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/pages/_home.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/pages/_home.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +52,7 @@
       <option name="presentableId" value="Default" />
       <updated>1599917189907</updated>
       <workItem from="1599917192461" duration="540000" />
-      <workItem from="1599922488690" duration="1894000" />
+      <workItem from="1599922488690" duration="2695000" />
     </task>
     <servers />
   </component>
@@ -78,25 +60,25 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1659" height="121" key="GridCell.Tab.0.bottom" timestamp="1599924851124">
+    <state width="1659" height="121" key="GridCell.Tab.0.bottom" timestamp="1599925494102">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1659" height="121" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1599924851124" />
+    <state width="1659" height="121" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1599925494102" />
     <state width="1659" height="258" key="GridCell.Tab.0.bottom/0.25.1680.981@0.25.1680.981" timestamp="1599922612788" />
-    <state width="1659" height="121" key="GridCell.Tab.0.center" timestamp="1599924851123">
+    <state width="1659" height="121" key="GridCell.Tab.0.center" timestamp="1599925494101">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1659" height="121" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1599924851123" />
+    <state width="1659" height="121" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1599925494101" />
     <state width="1659" height="258" key="GridCell.Tab.0.center/0.25.1680.981@0.25.1680.981" timestamp="1599922612786" />
-    <state width="1659" height="121" key="GridCell.Tab.0.left" timestamp="1599924851122">
+    <state width="1659" height="121" key="GridCell.Tab.0.left" timestamp="1599925494100">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1659" height="121" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1599924851122" />
+    <state width="1659" height="121" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1599925494100" />
     <state width="1659" height="258" key="GridCell.Tab.0.left/0.25.1680.981@0.25.1680.981" timestamp="1599922612785" />
-    <state width="1659" height="121" key="GridCell.Tab.0.right" timestamp="1599924851124">
+    <state width="1659" height="121" key="GridCell.Tab.0.right" timestamp="1599925494102">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1659" height="121" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1599924851124" />
+    <state width="1659" height="121" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1599925494102" />
     <state width="1659" height="258" key="GridCell.Tab.0.right/0.25.1680.981@0.25.1680.981" timestamp="1599922612787" />
     <state x="349" y="161" key="SettingsEditor" timestamp="1599922439015">
       <screen x="0" y="0" width="1680" height="1050" />
