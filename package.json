@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "compilesass": "node-sass ./sass/main.scss ./css/style.css -w"
+    "compilesass": "node-sass ./sass/main.scss ./css/style.css -w",
+    "compileonce": "node-sass ./sass/main.scss ./css/style.css"
   },
   "author": "Addy",
   "license": "MIT",
