@@ -6,4 +6,4 @@ Initialize project `npm install`
 
 Compile **with** watcher `npm run compilesass` 
 
-Compile **without** watcher `npm run compilesass`
+Compile **without** watcher `npm run compileonce`
