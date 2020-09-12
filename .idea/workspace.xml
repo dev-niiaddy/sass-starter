@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="96add330-3737-4c8a-a07a-cd91e5fecc6a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/abstracts/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/abstracts/_variables.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/base/_animations.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/base/_animations.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/base/_typography.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/base/_typography.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/components/_bg-video.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/components/_button.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/components/_card.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/components/_composition.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/components/_feature-box.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/components/_form.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/components/_popup.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/components/_story.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/layout/_footer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/layout/_footer.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/layout/_grid.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/layout/_grid.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/layout/_header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/layout/_header.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/layout/_navigation.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/layout/_navigation.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/pages/_home.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/pages/_home.scss" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1hPeWXtmWi0XSrziyu5k3TvTMZ2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="compilesass" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="compilesass" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.compilesass" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="96add330-3737-4c8a-a07a-cd91e5fecc6a" name="Default Changelist" comment="" />
+      <created>1599917189907</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599917189907</updated>
+      <workItem from="1599917192461" duration="540000" />
+      <workItem from="1599922488690" duration="1894000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1659" height="121" key="GridCell.Tab.0.bottom" timestamp="1599924851124">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1659" height="121" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1599924851124" />
+    <state width="1659" height="258" key="GridCell.Tab.0.bottom/0.25.1680.981@0.25.1680.981" timestamp="1599922612788" />
+    <state width="1659" height="121" key="GridCell.Tab.0.center" timestamp="1599924851123">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1659" height="121" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1599924851123" />
+    <state width="1659" height="258" key="GridCell.Tab.0.center/0.25.1680.981@0.25.1680.981" timestamp="1599922612786" />
+    <state width="1659" height="121" key="GridCell.Tab.0.left" timestamp="1599924851122">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1659" height="121" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1599924851122" />
+    <state width="1659" height="258" key="GridCell.Tab.0.left/0.25.1680.981@0.25.1680.981" timestamp="1599922612785" />
+    <state width="1659" height="121" key="GridCell.Tab.0.right" timestamp="1599924851124">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1659" height="121" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1599924851124" />
+    <state width="1659" height="258" key="GridCell.Tab.0.right/0.25.1680.981@0.25.1680.981" timestamp="1599922612787" />
+    <state x="349" y="161" key="SettingsEditor" timestamp="1599922439015">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="349" y="161" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1599922439015" />
+    <state x="505" y="233" key="search.everywhere.popup" timestamp="1599922398587">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="505" y="233" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1599922398587" />
+  </component>
+</project>
